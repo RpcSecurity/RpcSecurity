@@ -1,7 +1,5 @@
-### Hi there 👋
+### Here is What I`m Working ON👋
 
-<!--
-**RedHatHut/RedHatHut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
