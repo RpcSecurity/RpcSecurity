@@ -1,6 +1,6 @@
 ### Here is What I`m Working ON👋
 
-data-canonical-src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=2CA5E0&labelColor=2CA5E0&logoColor=FFF&style=for-the-badge&logo=telegram"
+https://img.shields.io/static/v1?label=Telegram&message=%20&color=2CA5E0&labelColor=2CA5E0&logoColor=FFF&style=for-the-badge&logo=telegram"
 
 Here are some ideas to get you started:
 
